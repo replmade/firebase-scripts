@@ -1,2 +1,2 @@
-# firebase-scripts
-Scripts for working with Firebase authentication
+# firebase-spells-py
+Python library for Firebase authentication
